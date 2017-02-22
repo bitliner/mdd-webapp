@@ -1,6 +1,6 @@
 # mdd-webapp
 
-Concepts behind a model-driven based web application.
+Concepts and implementation for a model-driven based web application.
 
 ## Table of contents
 
