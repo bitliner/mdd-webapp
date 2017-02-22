@@ -68,7 +68,7 @@ Input for both "Form" component and "Table" component are:
 
 - [X] Make first draft of the main concepts
 - [ ] Make diagram of the architecture
-- [ ] Choose elements for the implementation
+- [ ] Choose elements for the implementation ([Yeoman generator](https://github.com/cgross/generator-cg-angular15), etc.)
 - [ ] Add first example of implementation
 - [ ] Abstract and package components
 - [ ] Publish packages
