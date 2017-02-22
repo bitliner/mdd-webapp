@@ -25,7 +25,7 @@ Components:
   * required/not-required
   * HTML element and eventual associated information (e.g. "select", with predefined values, or date-picker, or date-range with default initital and end date)
 * each model is exposed via API, in order to allow management of resources
-* each form is exposed via API, in order to focus definition of models and related form on the back-end side
+* each form is exposed via API, in order to focus the definition of a model and of the related form on the back-end side
 
 <div id='front-end'/>
 ### Front-end
