@@ -36,16 +36,12 @@ Components are:
 * "Form" component - For create or update.
 * "Table" component - For retrieve or delete.
 
-##### "Form" component - For create or update.
-
-Methods are:
+Methods of "Form" component are:
 * *html()* - it returns the html for visualizing the form
 * *save()* - it creates a new resource
 * *update()* - it updates an existing resource 
 
-##### "Table" component - For retrieve or delete. 
-
-Methods are:
+Methods of "Table" component are:
 * *html()* - it returns the html for visualizing the table
 * *retrieve()* - it returns a list of resources (using pagination)
 * *delete()* - it delete one single resource
