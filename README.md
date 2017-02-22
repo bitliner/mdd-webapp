@@ -2,6 +2,8 @@
 
 Concepts and implementation for a model-driven based web application.
 
+**Goal** is to minimize development for basic applications (e.g. back-office and other data-entry applications).
+
 ## Table of contents
 
 - [Architecture](#architecture)
