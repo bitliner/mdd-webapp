@@ -32,6 +32,10 @@ Components:
 
 #### Components
 
+Components are:
+* "Form" component - For create or update.
+* "Table" component - For retrieve or delete.
+
 ##### "Form" component - For create or update.
 
 Methods are:
