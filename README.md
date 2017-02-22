@@ -8,6 +8,7 @@ Concepts behind a model-driven based web application.
   - [Back-end](#back-end)
   - [Front-end](#front-end)
 - [Todo](#todo)
+- [Resources](#resources)
 
 <div id='architecture'/>
 ## Architecture
@@ -71,3 +72,12 @@ Input for both "Form" component and "Table" component are:
 - [ ] Add first example of implementation
 - [ ] Abstract and package components
 - [ ] Publish packages
+
+<div id='Resources'/>
+## Resources
+
+* [Loopback - Diagram](https://github.com/strongloop/loopback)
+* [Bootstrap - Example of form](https://v4-alpha.getbootstrap.com/components/forms/)
+* [Baucis - Plug'n'play API](https://github.com/wprl/baucis)
+* [Forest-admin - No setup admin UI for mongoose](http://www.forestadmin.com/)
+* [forms-mongoose package - example of form](https://www.npmjs.com/package/forms-mongoose)
