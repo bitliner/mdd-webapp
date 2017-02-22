@@ -33,8 +33,8 @@ Components:
 #### Components
 
 Components are:
-* "Form" component - For create or update.
-* "Table" component - For retrieve or delete.
+* "**Form**" component - For create or update.
+* "**Table**" component - For retrieve or delete.
 
 Methods of "Form" component are:
 * *html()* - it returns the html for visualizing the form
